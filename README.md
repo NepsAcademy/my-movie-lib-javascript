@@ -10,7 +10,7 @@ This repository serves as a guide and a completed example for students of the co
 
 Check out the live version of the project hosted on GitHub Pages:
 
-**[https://neps-academy.github.io/my-movie-library/](https://www.google.com/search?q=https://neps-academy.github.io/my-movie-library/)**
+**[https://nepsacademy.github.io/my-movie-lib/](https://nepsacademy.github.io/my-movie-lib/)**
 
 ## 🚀 Features
 
