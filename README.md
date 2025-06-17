@@ -4,6 +4,8 @@ Welcome to **My Movie Library**\! This is the official example project for the [
 
 This repository serves as a guide and a completed example for students of the course.
 
+![Project demonstration gif](/assets/course_gifs/project_demonstration.gif)
+
 ## ✨ Live Demo
 
 Check out the live version of the project hosted on GitHub Pages:
@@ -12,18 +14,18 @@ Check out the live version of the project hosted on GitHub Pages:
 
 ## 🚀 Features
 
-  * **Movie List:** A responsive grid layout displaying all movie review cards.
-  * **Add New Review:** A complete and styled form to add new movies and their reviews.
-  * **Movie Details:** A dedicated page with a two-column layout to view the details of a single movie review.
-  * **Responsive Design:** The layout smoothly adapts to desktop, tablet, and mobile screens using Flexbox and Media Queries.
-  * **Interactive UI:** Smooth transitions and hover effects on cards and buttons to improve user experience.
+- **Movie List:** A responsive grid layout displaying all movie review cards.
+- **Add New Review:** A complete and styled form to add new movies and their reviews.
+- **Movie Details:** A dedicated page with a two-column layout to view the details of a single movie review.
+- **Responsive Design:** The layout smoothly adapts to desktop, tablet, and mobile screens using Flexbox and Media Queries.
+- **Interactive UI:** Smooth transitions and hover effects on cards and buttons to improve user experience.
 
-## 🛠️ Technologies 
+## 🛠️ Technologies
 
 This project was built using core web technologies, with a focus on modern best practices taught in the course.
 
-  * **HTML5:** Used for structuring the content with a focus on semantics (`<header>`, `<main>`, `<footer>`, `<nav>`, `<section>`).
-  * **CSS3:** Used for all styling, layout, and responsiveness.
+- **HTML5:** Used for structuring the content with a focus on semantics (`<header>`, `<main>`, `<footer>`, `<nav>`, `<section>`).
+- **CSS3:** Used for all styling, layout, and responsiveness.
 
 ## 📁 Project Structure
 
