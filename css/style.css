@@ -7,8 +7,6 @@
   --button-background-color: #ef233c;
   --button-text-color: #FFFFFF;
   --shadow-color: rgba(0, 0, 0, 0.1);
-  --rating_color: red; 
-  --webkit-text-stroke_color: #ef233c;
   --button-hover-color: rgba(0, 0, 0, 0.2);
   --form-container-background-color:  #f4f5f6;
   --movie-details-container-background-color: #f4f5f6;
@@ -23,8 +21,6 @@ body.dark-mode {
   --button-background-color: #1e2025;
   --button-text-color: #ECEFF4;
   --shadow-color: rgba(255, 255, 255, 0.1);
-  --rating_color: #000000;
-  --webkit-text-stroke_color: black;
   --button-hover-color: rgba(78, 78, 78, 0.2);
   --form-container-background-color: #343A40;
   --movie-details-container-background-color: #343A40;
@@ -145,11 +141,11 @@ footer {
 }
 
 .rating {
-  color: var(--rating_color);
+  color: red; 
   font-size: 28px;
   margin-top: 8px;
   margin-bottom: 18px;
-  -webkit-text-stroke: 1px var(--webkit-text-stroke_color);
+  -webkit-text-stroke: 1px #ef233c;
 }
 
 .star-empty {
