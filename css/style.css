@@ -388,3 +388,28 @@ header nav {
   align-items: center;
   gap: 1rem; /* Cria um espaço entre os dois botões */
 }
+
+
+.search-container {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+#search-input {
+  width: 50%;
+  max-width: 400px;
+  padding: 10px 15px;
+  font-size: 1rem;
+  border-radius: 20px;
+  border: 1px solid var(--border-color, #ccc);
+  background-color: var(--card-background-color, #fff);
+  color: var(--text-color, #000);
+  transition: all 0.3s;
+}
+
+#search-input:focus {
+  outline: none;
+  border-color: var(--button-background-color, #ef233c);
+  box-shadow: 0 0 5px var(--shadow-color, rgba(0,0,0,0.2));
+}
