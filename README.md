@@ -1,6 +1,6 @@
 # My Movie Library 🎬
 
-Welcome to **My Movie Library**\! This is the official example project for the [**Web Development 101 Course at Neps Academy**](https://neps.academy/br/course/principios-basicos-do-desenvolvimento-web). The goal of this project is to apply fundamental concepts of HTML5 and CSS3 to build a beautiful, responsive, and interactive static website based on a provided Figma design.
+Welcome to **My Movie Library with Javascript**\! This is the official example project for the [**Javascript Bootcamp V2 at Neps Academy**](link). The goal of this project is to apply new Javascript concepts into the previous [**project**](https://neps.academy/br/course/principios-basicos-do-desenvolvimento-web) to build a more beautiful, responsive, and interactive website.
 
 This repository serves as a guide and a completed example for students of the course.
 
@@ -19,6 +19,8 @@ Check out the live version of the project hosted on GitHub Pages:
 - **Movie Details:** A dedicated page with a two-column layout to view the details of a single movie review.
 - **Responsive Design:** The layout smoothly adapts to desktop, tablet, and mobile screens using Flexbox and Media Queries.
 - **Interactive UI:** Smooth transitions and hover effects on cards and buttons to improve user experience.
+- **[NEW]** Dark Mode: Toggle between light and dark themes for a comfortable viewing experience in any environment.
+- **[NEW]** Search Bar: A text-based search bar that filters movies in real time based on the movie title.
 
 ## 🛠️ Technologies
 
@@ -26,6 +28,7 @@ This project was built using core web technologies, with a focus on modern best 
 
 - **HTML5:** Used for structuring the content with a focus on semantics (`<header>`, `<main>`, `<footer>`, `<nav>`, `<section>`).
 - **CSS3:** Used for all styling, layout, and responsiveness.
+- **Javascript**: Used to implement interactive features such as dark mode toggle and the title-based search bar.
 
 ## 📁 Project Structure
 
@@ -42,6 +45,8 @@ my-movie-library/
 ├── css/                      # Folder for stylesheets
 │   └── style.css
 │
+├── app.js                    # Logic of the new functionalities
+│
 └── assets/                   # Folder for static assets
     └── images/
         └── mlib-icon.svg
@@ -53,11 +58,11 @@ To run this project on your local machine, follow these steps:
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/NepsAcademy/my-movie-library.git
+    git clone https://github.com/NepsAcademy/my-movie-lib-javascript
     ```
 2.  **Navigate to the project directory:**
     ```sh
-    cd my-movie-library
+    cd my-movie-lib-javascript
     ```
 3.  **Open the `index.html` file in your favorite web browser.**
 
