@@ -4,7 +4,7 @@ Welcome to **My Movie Library with Javascript**\! This is the official example p
 
 This repository serves as a guide and a completed example for students of the course.
 
-![Project demonstration gif](/assets/course_gifs/project_demonstration.gif)
+![Project demonstration gif](/assets/course_gifs/dark_mode_search_bar.gif)
 
 ## ✨ Live Demo
 
