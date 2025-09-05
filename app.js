@@ -25,3 +25,23 @@ if (savedTheme === 'dark') {
   body.classList.add('dark-mode');
   themeToggleButton.textContent = '☀️';
 }
+
+// Lógica da Barra de Busca
+
+const searchInput = document.querySelector('#search-input');
+const movieLinks = document.querySelectorAll('.movie-card-link');
+
+searchInput.addEventListener('input', () => {
+  const searchTerm = searchInput.value.toLowerCase();
+
+  movieLinks.forEach(link => {
+    const movieTitle = link.querySelector('h3').textContent.toLowerCase();
+
+    // Verifica se o título do filme inclui o termo da busca
+    if (movieTitle.includes(searchTerm)) {
+      link.style.display = 'block'; // Mostra o card
+    } else {
+      link.style.display = 'none'; // Esconde o card
+    }
+  });
+});
