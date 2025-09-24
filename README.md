@@ -1,6 +1,6 @@
 # My Movie Library 🎬
 
-Welcome to **My Movie Library with Javascript**\! This is the official example project for the [**Javascript Bootcamp V2 at Neps Academy**](link). The goal of this project is to apply new Javascript concepts into the previous [**project**](https://neps.academy/br/course/principios-basicos-do-desenvolvimento-web) to build a more beautiful, responsive, and interactive website.
+Welcome to **My Movie Library with Javascript**\! This is the official example project for the [**Javascript Bootcamp at Neps Academy**](https://neps.academy/course/3242). The goal of this project is to apply JavaScript concepts to the previous [**project**](https://github.com/NepsAcademy/my-movie-lib), in order to build a more interactive website.
 
 This repository serves as a guide and a completed example for students of the course.
 
@@ -10,7 +10,7 @@ This repository serves as a guide and a completed example for students of the co
 
 Check out the live version of the project hosted on GitHub Pages:
 
-**[https://nepsacademy.github.io/my-movie-lib-javascript/](https://nepsacademy.github.io/my-movie-lib-javascript/)
+**[https://nepsacademy.github.io/my-movie-lib-javascript/](https://nepsacademy.github.io/my-movie-lib-javascript/)**
 
 ## 🚀 Features
 
